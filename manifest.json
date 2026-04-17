@@ -1,0 +1,27 @@
+{
+  "name": "IceFlow",
+  "short_name": "IceFlow",
+  "description": "Kälteduschen Tracker – Streaks, Challenges & Wissen",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EEF6FB",
+  "theme_color": "#2D9CDB",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "fitness", "lifestyle"],
+  "lang": "de",
+  "screenshots": []
+}
