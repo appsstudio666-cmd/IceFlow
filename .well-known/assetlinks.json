@@ -1,8 +1,8 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.iceflow.app",
-        "sha256_cert_fingerprints": ["FC:51:59:DF:1D:45:1C:AD:EA:A8:7E:9D:C5:8D:F8:6A:31:3D:05:F4:7E:37:BB:83:32:C1:95:9C:C9:B1:7E:F0"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.iceflow.app",
+    "sha256_cert_fingerprints": ["D2:59:36:4E:AC:8F:A3:D0:81:AF:2F:D0:FC:61:93:A4:03:78:FE:D7:A7:F1:67:03:8C:4A:47:AC:FF:14:E7:1E"]
+  }
+}]
